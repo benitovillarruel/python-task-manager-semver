@@ -24,3 +24,15 @@ y este proyecto utiliza Semantic Versioning.
 
 ### Fixed
 - Validación para evitar tareas vacías.
+
+
+
+## [2.0.0] - 2026-05-30
+
+### Changed
+- Refactor completo del sistema de tareas.
+- Renombrado app.py a task_manager.py.
+- Cambio en estructura interna de tareas.
+
+### Removed
+- Eliminadas funciones add_task y list_tasks.
