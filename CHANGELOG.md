@@ -15,6 +15,8 @@ y este proyecto utiliza Semantic Versioning.
 - Funcionalidad para listar tareas.
 - Documentación inicial.
 
+
+
 ## [1.1.0] - 2026-05-29
 
 ### Added
