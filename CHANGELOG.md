@@ -14,3 +14,11 @@ y este proyecto utiliza Semantic Versioning.
 - Funcionalidad para agregar tareas.
 - Funcionalidad para listar tareas.
 - Documentación inicial.
+
+## [1.1.0] - 2026-05-29
+
+### Added
+- Filtro de tareas por estado.
+
+### Fixed
+- Validación para evitar tareas vacías.
